@@ -1,4 +1,4 @@
-# HarvardCS50MySolutions
+# HarvardCS50MyAnswers
  
 https://cs50.harvard.edu/x/2020/
 
