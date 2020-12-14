@@ -1,3 +1,5 @@
+# Speller / ProblemSet5
+
 Speller is a a program that spell-checks a file. That was the most challenging task in CS50.
 
 I had to implement a spell-checks program that loads dictionary in memory, then loads some text in memory, checks every word in a text and make a conclusion about how many words are misspelled, how long does it takes to load a dictionary and so on.
